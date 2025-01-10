@@ -19,7 +19,7 @@ Before running this application, make sure you have:
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/qr-generator.git
+git clone https://github.com/Mkaif5365/qr-code-generator.git
 cd qr-generator
 ```
 
