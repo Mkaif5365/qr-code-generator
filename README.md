@@ -47,7 +47,9 @@ node index.js
 
 ## Example Output
 
-You can find an example QR code in the `examples` folder of this repository.
+Here's an example of a QR code generated using this application:
+
+![Example QR Code](./Examples/qr.png)
 
 ## Project Structure
 
@@ -59,13 +61,10 @@ qr-generator/
 ├── qr.png
 ├── url.txt
 ├── examples/
-│   └── example-qr.png
+│   └── qr.png
+│   └── qr2.png
 └── README.md
 ```
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contributing
 
